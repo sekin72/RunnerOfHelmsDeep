@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: GameAssets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d788da71a02764843b340b30a223d357
+  m_SerializeEntries:
+  - m_GUID: b5d6bcb9aeb9ac547956d4bcab87ebca
+    m_Address: DefaultEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a836ebddda2ca446a46619aad434a5f
+    m_Address: TinyEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 814dc433256033648bd7f44d934717fc
+    m_Address: TrollEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 645bfef70cbf4014b80df0dc624186fa
+    m_Address: DifficultyData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9e58686b7c80ff4c87e7424fa283552
+    m_Address: EnvironmentData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 303a19f3dafd73f4392d3a35298c7d7d
+    m_Address: DefaultEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f39acb10e0d2b64eb9471d5d3863c52
+    m_Address: TinyEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4adb416f1b006bc4f96a90e422f088bc
+    m_Address: TrollEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 009b488474813014f91d58c209ee77b4
+    m_Address: EnemySpawnGate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b07bc57696056f43b3871b0baaed5d7
+    m_Address: MainTower
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a68b8a33a2328214fba6be4858361d45
+    m_Address: EnvironmentCreatorSystemView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d72a58bb06ff9644a8cc12f9fc4c495
+    m_Address: BlockTile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53d516830a12bb648b5d3fbaa87c1ea7
+    m_Address: PassiveTile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c0e170466c4cae4484999d6abe1cd4f
+    m_Address: PathTile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd7742dc8dd3b2b4c85216b1c28d62a0
+    m_Address: Tile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69478f10f4a9409448bee8f3f31c9dbd
+    m_Address: Bomber
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c07b01d249a57934992a4c2723d476f4
+    m_Address: Turret
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b60f4e39d9043734ca04d595b8e1e20c
+    m_Address: MainMenuPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fa473b70378b654a84307886f90d064
+    m_Address: Arrow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 604dcaaa133fe4c43bd47a18f249c463
+    m_Address: PlayerUnitControllerSystem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45ae8ce3527dfcf46933282f370e9275
+    m_Address: Fireball
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b96a5ea005c22944ad783bdd352df04
+    m_Address: Wizard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 850fe23e6492a8b46bb2d85eb29f9e2b
+    m_Address: ProjectLifetimeScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c4a69a1f7003224cabc9474d2746662
+    m_Address: Environment
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b2a156d1d60c7743a18de5489269685
+    m_Address: RTS_Camera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1da012c163288204a89c23d7fcb0b4ae
+    m_Address: TowerBar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5e9efccc960a374ea6a7195c8bf221f
+    m_Address: ExternalParticlesSystemView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5aac52c20318f3144be23d632f23850e
+    m_Address: Grid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84219bd1e4fee0e45b54789e143c5679
+    m_Address: Elf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77f0e2b249ab0b0438ca8db5e8e994f2
+    m_Address: Human
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d8da90c3515efa439e74b5af2c6aa81
+    m_Address: Wizard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed937a83e73848c4196ee994beeef0f0
+    m_Address: GameSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6f55a7d51d881f4a9b5420c9ab0f093
+    m_Address: EnemyControllerSystem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aedf8772392bb544e9da2c114b2f56f7
+    m_Address: EnvironmentCreatorSystem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ba06e03689d89849a85eba43aaceb1f
+    m_Address: ExternalParticlesSystem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a201f88eff19cd43b520fb5a9b34035
+    m_Address: ScoreSystem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6222f0dbe29f3cb4a90e99324dc1bc4b
+    m_Address: SystemsCollection
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3154efcde30a36648973232b1c2a73e0
+    m_Address: ViewSpawnerSystem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7fc1cb6c430fd2b49939501a9bcb9d93, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: feacfd343e5188f48bd7c0b0bc6aa08e, type: 2}
+    - {fileID: 11400000, guid: 9867424ca294f0846a9d2aead648f457, type: 2}

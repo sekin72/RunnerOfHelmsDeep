@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -321747449, guid: cd75c7ee0fd76fb4195cca947d45f5a6, type: 3}
+  m_Name: PoolDataHolder
+  m_EditorClassIdentifier: 
+  PoolDataList:
+  - KeyID: 50
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 5f88d0cae62f5fc49a391006e8d042ed
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 100
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 879ea0db2ff6b7647b8658894fc4d1c5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 101
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: eba49fe1687b9e3418f99e9889e75a9f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 102
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 9630cfa6367029c439cdb5ad360a393c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 103
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: d8fb1a19fa104bc438a519d9db3ae11a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 104
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 9c86e2da90f871446b089746905efb8a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 105
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 4058c0cb81e6c9c46ab6df2a4c616d92
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 150
+    DefaultCapacity: 2
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 3f72984ebf8414fe59a9c770b720fbfd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 151
+    DefaultCapacity: 2
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 351203dffa3f8af45a69036838e14228
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 152
+    DefaultCapacity: 2
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: d56e6faace369604796f6e1f4e1afd50
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 500
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: d5e9efccc960a374ea6a7195c8bf221f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 501
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: a68b8a33a2328214fba6be4858361d45
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 600
+    DefaultCapacity: 50
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: cd7742dc8dd3b2b4c85216b1c28d62a0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 601
+    DefaultCapacity: 20
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 6d72a58bb06ff9644a8cc12f9fc4c495
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 602
+    DefaultCapacity: 30
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 53d516830a12bb648b5d3fbaa87c1ea7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 603
+    DefaultCapacity: 30
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 8c0e170466c4cae4484999d6abe1cd4f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 606
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 009b488474813014f91d58c209ee77b4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 607
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 2b07bc57696056f43b3871b0baaed5d7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 608
+    DefaultCapacity: 20
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 303a19f3dafd73f4392d3a35298c7d7d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 609
+    DefaultCapacity: 20
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 1f39acb10e0d2b64eb9471d5d3863c52
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 610
+    DefaultCapacity: 20
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 4adb416f1b006bc4f96a90e422f088bc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 612
+    DefaultCapacity: 5
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: c07b01d249a57934992a4c2723d476f4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 613
+    DefaultCapacity: 5
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 69478f10f4a9409448bee8f3f31c9dbd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 614
+    DefaultCapacity: 5
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 4b96a5ea005c22944ad783bdd352df04
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 650
+    DefaultCapacity: 5
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 7fa473b70378b654a84307886f90d064
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 651
+    DefaultCapacity: 5
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 45ae8ce3527dfcf46933282f370e9275
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 1000
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 9df9cc870b53ece4c8757da41ba964cb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 1001
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 9dd1d537bc9ade7428896bfd88625936
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 1002
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 70b5a0811455e3446b735156e0a05f87
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

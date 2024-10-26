@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CFGameClient
+  m_EditorClassIdentifier: 
+  m_GroupName: CFGameClient
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9875a56c68a27094a984a68e9db3930d
+  m_SerializeEntries:
+  - m_GUID: 439b1d0429656174c8a5533eaaa8e1c5
+    m_Address: PoolDataHolder
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b030ec1b42078564cafc55421e6343a3
+    m_Address: SceneReferencesHolder
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc093d5a05ab2ad4e8d9ca12a9206ca2
+    m_Address: SoundsList
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dd1d537bc9ade7428896bfd88625936
+    m_Address: WinPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9df9cc870b53ece4c8757da41ba964cb
+    m_Address: PausePopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70b5a0811455e3446b735156e0a05f87
+    m_Address: FailPopupVariant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8230925b31a66604fb89c8f351e9a934
+    m_Address: WinPopupVariant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7fc1cb6c430fd2b49939501a9bcb9d93, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8e80296fcb907834c93a42c562bc0702, type: 2}
+    - {fileID: 11400000, guid: 62c39a561823323469954bb5f2dcebc8, type: 2}

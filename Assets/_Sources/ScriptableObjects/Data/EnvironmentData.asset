@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fc687cd4525a24baf2410599570755, type: 3}
+  m_Name: EnvironmentData
+  m_EditorClassIdentifier: 
+  TileKey: 600
+  GroundTileKey: 601
+  PlayerUnitTileKey: 602
+  PathTileKey: 603
+  EnemySpawnGateKey: 606
+  MainTowerKey: 607
+  TileSize: 5
+  StartingPosition: {x: 30, y: 10}
+  TotalWidth: 50
+  TotalHeight: 50
+  PlayableWidth: 7
+  PlayableHeight: 15
